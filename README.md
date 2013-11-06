@@ -1,12 +1,12 @@
 APIUsage
 ========
 
-Sample files for getting up and running with the YourMapper API.
+Links and sample files for getting up and running with the YourMapper APIs.
 
 Mashape
 -------
 
-To consume our API through Mashape, do the following:
+To consume one of our APIs through Mashape, do the following:
 
 1. Go to https://www.mashape.com/yourmapper browse our Mashape APIs
 2. Sign up for a Mashape account.
@@ -15,4 +15,10 @@ To consume our API through Mashape, do the following:
 
 Now you can use the code samples that Mashape provides at the top of each API endpoint (Curl Java Node PHP Python Objective-C Ruby .NET).
 
-Optionally, you can use the MashapeExample.php file we've created in this repo on your server.
+Here is Mashape's help documentation and code samples for Java, PHP, Python, Ruby, Objective-C:
+https://www.mashape.com/docs/consume/unirest
+
+This Repo
+---------
+
+Optionally, you can use the MashapeExample.php file we've created in this repo on your server, if Mashape's dynamic code samples don't cut it for you.
